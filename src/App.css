@@ -10,6 +10,16 @@
   color: white;
 }
 
+a {
+  text-decoration: none;
+  color: #61dafb;
+  transition: all 0.5s;
+}
+a:hover{
+  background-color: blueviolet;
+  transition: all 0.5s;
+}
+
 .App {
   text-align: center;
 }

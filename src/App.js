@@ -7,13 +7,17 @@ function App() {
       <div className='section-container'>
         <h2>coconala</h2>
         <h3>Video</h3>
-        <p>youmu869</p>
-        <p>https://coconala.com/services/1641271</p>
-        <p>天【動画編集】</p>
-        <p>https://coconala.com/services/1385200</p>
+        <a target="_blank" and rel="noopener noreferrer" href="https://coconala.com/services/1641271">youmu869</a><br/>
+        <a target="_blank" and rel="noopener noreferrer" href="https://coconala.com/services/1385200">天【動画編集】</a><br/>
+        <a target="_blank" and rel="noopener noreferrer" href="https://coconala.com/services/2095083">xこめちゃんx</a>
       </div>
       <div className='section-container'>
         <h2>skeb</h2>
+        <a target="_blank" and rel="noopener noreferrer" href="https://skeb.jp/@3Tokitamago3">とかれたたまご</a><br/>
+
+        <a target="_blank" and rel="noopener noreferrer" href="https://lit.link/en/shiropon">Tukiyume shiro</a><br/>
+        <img src="Tsukiyume Shiro.png"></img>
+        <p></p>
       </div>
     </div>
   );
