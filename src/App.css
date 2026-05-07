@@ -20,6 +20,10 @@ a:hover{
   transition: all 0.5s;
 }
 
+img{
+  max-height: 500px;
+}
+
 .App {
   text-align: center;
 }
